@@ -1,0 +1,9 @@
+D:\универ\4 сем\ООП\Labs4\Labs4\bin\Debug\Labs4.exe.config
+D:\универ\4 сем\ООП\Labs4\Labs4\bin\Debug\Labs4.exe
+D:\универ\4 сем\ООП\Labs4\Labs4\bin\Debug\Labs4.pdb
+D:\универ\4 сем\ООП\Labs4\Labs4\obj\Debug\Labs4.csprojAssemblyReference.cache
+D:\универ\4 сем\ООП\Labs4\Labs4\obj\Debug\Labs4.Form1.resources
+D:\универ\4 сем\ООП\Labs4\Labs4\obj\Debug\Labs4.Properties.Resources.resources
+D:\универ\4 сем\ООП\Labs4\Labs4\obj\Debug\Labs4.csproj.GenerateResource.cache
+D:\универ\4 сем\ООП\Labs4\Labs4\obj\Debug\Labs4.exe
+D:\универ\4 сем\ООП\Labs4\Labs4\obj\Debug\Labs4.pdb

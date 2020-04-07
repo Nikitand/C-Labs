@@ -1,0 +1,13 @@
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.Properties.Resources.resources
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.csproj.GenerateResource.cache
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\bin\Debug\Laba5_2.exe.config
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\bin\Debug\Laba5_2.exe
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\bin\Debug\Laba5_2.pdb
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.exe
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.pdb
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.Основная_форма.resources
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.Form1.resources
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.csprojAssemblyReference.cache
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.Form2.resources
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\bin\Debug\System.ComponentModel.Annotations.dll
+D:\универ\4 сем\ООП\Laba5_2\Laba5_2\obj\Debug\Laba5_2.csproj.CopyComplete
