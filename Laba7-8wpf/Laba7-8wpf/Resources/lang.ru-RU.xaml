@@ -1,0 +1,40 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Laba7_8wpf.Resources"
+   xmlns:v="clr-namespace:System;assembly=mscorlib">
+  <v:String x:Key="m_Info">Инфо</v:String>
+  <v:String x:Key="m_lbName">Название</v:String>
+  <v:String x:Key="m_lbDiff">Сложность</v:String>
+  <v:String x:Key="m_lbCategory">Вид</v:String>
+
+  <v:String x:Key="m_Study">Учёба</v:String>
+  <v:String x:Key="m_House">Дом</v:String>
+  <v:String x:Key="m_Family">Семья</v:String>
+
+  <v:String x:Key="m_Easy">Легко</v:String>
+  <v:String x:Key="m_Medium">Средне</v:String>
+  <v:String x:Key="m_Hard">Тяжело</v:String>
+
+  <v:String x:Key="m_butAdd">Добавить</v:String>
+  <v:String x:Key="m_butEdit">Изменить</v:String>
+
+  <v:String x:Key="m_menuFile">Файл</v:String>
+  <v:String x:Key="m_ItemOpen">Открыть</v:String>
+  <v:String x:Key="m_ItemClose">Сохранить</v:String>
+  <v:String x:Key="m_ItemExit">Выход</v:String>
+
+  <v:String x:Key="m_menuLanguage">Языки</v:String>
+  <v:String x:Key="m_menuFind">Поиск</v:String>
+  <v:String x:Key="m_itemName">Имени</v:String>
+
+
+  <v:String x:Key="m_tableDatecreation">Дата создания</v:String>
+  <v:String x:Key="m_tableDone">Статус</v:String>
+  <v:String x:Key="m_Finish">Дата завершения</v:String>
+    
+    <v:String x:Key="m_Redo">Вперёд</v:String>
+    <v:String x:Key="m_Undo">Назад</v:String>
+    <v:String x:Key="Thems">Темы</v:String>
+    <v:String x:Key="color1">1</v:String>
+    <v:String x:Key="color2">2</v:String>
+</ResourceDictionary>
